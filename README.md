@@ -1,4 +1,4 @@
-# Excel-Pivot-and-Unpivot
+# PowerQuery-Pivot-and-Unpivot
 Pivot Table and Unpivot Table in Excel
 
 ## Table Range
